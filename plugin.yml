@@ -1,6 +1,6 @@
 name: ArabicFixerByAbosh
 main: StockPE\MCBE\ArabicFixer
 version: abosh-10$
-api: [3.0.0]
+api: 5.0.0
 author: abosh
 description: plugin made by abosh that fixes arabic chat!
